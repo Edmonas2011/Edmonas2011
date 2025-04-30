@@ -62,14 +62,6 @@ From a young age, I was captivated by the digital world. At just 4 years old, I 
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Edmonas2011?template=classic&config.timezone=Asia%2FYerevan" alt="GitHub Metrics"/>
-</div>
-
----
-
 ### 📬 Get in Touch
 
 <div align="center">
