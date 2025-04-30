@@ -23,7 +23,7 @@
   <li><span style="font-size: 24px; color: #32CD32;">💻</span> <strong>LeetCode Solver</strong>: Solving over 30+ LeetCode problems has helped me build my problem-solving skills and sharpen my coding expertise.</li>
   <li><span style="font-size: 24px; color: #8A2BE2;">♟️</span> <strong>Chess Aficionado</strong>: With an Elo rating of 1600, I love the strategy and critical thinking that chess provides.</li>
   <li><span style="font-size: 24px; color: #1E90FF;">🌎</span> <strong>English Learner</strong>: Currently educating myself at the A2 level in <strong>TNY Educational Centre</strong>, further expanding my knowledge.</li>
-  <li><span style="font-size: 24px; color: #FF6347;">🟥🟦🟧</span> <strong>Proudly Armenian</strong>: I’m deeply proud of my roots and heritage from Armenia, a country rich in culture, history, and beauty.</li>
+  <li><span style="font-size: 24px; color: #FF6347;">🟥🟦🟧</span> <strong>Armenia</strong>: I’m deeply proud of my roots and heritage from Armenia, a country rich in culture, history, and beauty.</li>
 </ul>
 
 <hr style="border: 2px solid #00BFFF; width: 80%; margin: 20px auto;"/>
