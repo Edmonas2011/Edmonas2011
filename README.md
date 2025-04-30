@@ -39,7 +39,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Edmonas2011&theme=react&border_radius=10" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Edmonas2011&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" style="border-radius: 10px;"/>
   <br/><br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmonas2011&layout=compact&theme=react&border_radius=10" alt="Top Languages" style="border-radius: 10px;"/>
 </div>
@@ -68,9 +68,17 @@
 
 ### 📬 Get in Touch
 
-<p align="center" style="font-size: 16px; color: #555;">
-  You can reach out to me via my <strong>Telegram</strong>: <a href="https://t.me/edmonaseyann" style="color: #00BFFF;">@edmonaseyann</a> or follow me on <strong>Instagram</strong>: <a href="https://www.instagram.com/111_.ase7aann/" style="color: #00BFFF;">@111_.ase7aann</a>.
-</p>
+<div align="center">
+  <a href="https://t.me/edmonaseyann" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/111_.ase7aann/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:aseyanedmon2011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+</div>
 
 <hr style="border: 1px solid #00BFFF; width: 80%; margin: 0 auto;"/>
 
