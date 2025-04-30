@@ -10,17 +10,21 @@
 
 ### 🧒 My Coding Journey
 
-From a young age, I was captivated by the digital world. At just 4 years old, I began exploring the basics of computers, driven by an insatiable curiosity. This early fascination laid the foundation for my passion in web development.
+My coding journey started at the age of 4 when I first encountered a computer. It was a mysterious, fascinating device, and I couldn’t help but explore. Over time, this curiosity turned into a passion for technology. I started with simple programs, then learned HTML and CSS, which made me realize how amazing it is to build websites. With each new skill, I grew more excited about the world of coding, and it has become a lifelong adventure.
 
 ---
 
 ### 🧠 About Me
 
-- 🏀 **Basketball Enthusiast**: Passionate about basketball, both as a sport and a way to challenge myself.
-- 🧩 **LeetCode Learner**: Constantly honing my problem-solving skills on LeetCode.
-- ♟️ **Chess Aficionado**: Chess helps me think critically and develop strategic thinking.
-- 🇬🇧 **English Proficiency**: Focused on improving my English to communicate better in the global tech community.
-- 🌍 **Based in Armenia**: Proudly representing my home country, Armenia, in the tech space.
+- 🏀 **Basketball Enthusiast**: I love playing basketball and am part of the **Patriot** team. The game pushes me to be both physically and mentally strong.
+  
+- 💻 **LeetCode Solver**: I've solved over 30 LeetCode problems, continuously improving my problem-solving skills.
+
+- ♟️ **Chess Aficionado**: I'm passionate about chess, with a 1600 Elo rating. The strategy and focus required for the game challenge me in new ways.
+
+- 🌎 **English Learner**: I'm currently educating myself at **TNY Educational Centre**, studying at the A2 level.
+
+- 🟥🟦🟧 **Proudly Armenian**: I love my country, Armenia. It’s where I was born, and I’m proud of its culture and heritage.
 
 ---
 
@@ -64,11 +68,7 @@ From a young age, I was captivated by the digital world. At just 4 years old, I 
 
 ### 📬 Get in Touch
 
-<div align="center">
-  <a href="mailto:aseyanedmon2011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
-</div>
+You can reach out to me via my **Telegram**: [@edmonaseyann](https://t.me/edmonaseyann) or follow me on **Instagram**: [@111_.ase7aann](https://www.instagram.com/111_.ase7aann/).
 
 ---
 
