@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+Edmonus;HTML+CSS+JavaScript;Learning+Python+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+Edmonus;Frontend+Developer;Learning+Python+%F0%9F%90%8D" alt="Typing SVG" />
 </h1>
 
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #333333; font-size: 24px; text-shadow: 2px 2px 5px rgba(0, 191, 255, 0.4);">
@@ -23,7 +23,7 @@
   <li><span style="font-size: 24px; color: #32CD32;">💻</span> <strong>LeetCode Solver</strong>: Solving over 30+ LeetCode problems has helped me build my problem-solving skills and sharpen my coding expertise.</li>
   <li><span style="font-size: 24px; color: #8A2BE2;">♟️</span> <strong>Chess Aficionado</strong>: With an Elo rating of 1600, I love the strategy and critical thinking that chess provides.</li>
   <li><span style="font-size: 24px; color: #1E90FF;">🌎</span> <strong>English Learner</strong>: Currently educating myself at the A2 level in <strong>TNY Educational Centre</strong>, further expanding my knowledge.</li>
-  <li><span style="font-size: 24px; color: #FF6347;">🟥🟦🟧</span> <strong>Armenia</strong>: I’m deeply proud of my roots and heritage from Armenia, a country rich in culture, history, and beauty.</li>
+  <li><span style="font-size: 24px; color: #FF6347;">🇦🇲</span> <strong>Proudly Armenian</strong>: I’m deeply proud of my roots and heritage from Armenia, a country rich in culture, history, and beauty.</li>
 </ul>
 
 <hr style="border: 2px solid #00BFFF; width: 80%; margin: 20px auto;"/>
