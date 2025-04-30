@@ -24,7 +24,7 @@ My coding journey started at the age of 4 when I first encountered a computer. I
 
 - 🌎 **English Learner**: I'm currently educating myself at **TNY Educational Centre**, studying at the A2 level.
 
-- 🟥🟦🟧 **Proudly Armenian**: I love my country, Armenia. It’s where I was born, and I’m proud of its culture and heritage.
+- 🟥🟦🟧 **Armenia**: I love my country, Armenia. It’s where I was born, and I’m proud of its culture and heritage.
 
 ---
 
