@@ -19,11 +19,11 @@
 ### <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me
 
 <ul style="font-size: 18px; color: #555; line-height: 1.8; font-family: 'Arial', sans-serif;">
-  <li><span style="font-size: 24px; color: #FF8C00;">🏀</span> <strong>Basketball Enthusiast</strong>: I love playing basketball and am proud to be part of the <strong>Patriot</strong> team.</li>
+  <li><span style="font-size: 24px; color: #FF8C00;">🏀</span> <strong>Basketball</strong>: I love playing basketball and am proud to be part of the <strong>Patriot</strong> team.</li>
   <li><span style="font-size: 24px; color: #32CD32;">💻</span> <strong>LeetCode Solver</strong>: Solving over 30+ LeetCode problems has helped me build my problem-solving skills.</li>
   <li><span style="font-size: 24px; color: #8A2BE2;">♟️</span> <strong>Chess Aficionado</strong>: With an Elo rating of 1600, I love the strategy and critical thinking that chess provides.</li>
   <li><span style="font-size: 24px; color: #1E90FF;">🌎</span> <strong>English Learner</strong>: Studying at the A2 level in <strong>TNY Educational Centre</strong>.</li>
-  <li><span style="font-size: 24px; color: #FF6347;">🇦🇲</span> <strong>Proudly Armenian</strong>: I’m proud of my Armenian roots and heritage.</li>
+  <li><span style="font-size: 24px; color: #FF6347;">🇦🇲</span> <strong>Armenian</strong>: I’m proud of my Armenian roots and heritage.</li>
 </ul>
 
 <hr style="border: 2px solid #00BFFF; width: 80%; margin: 20px auto;"/>
